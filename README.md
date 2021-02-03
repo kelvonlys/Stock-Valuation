@@ -13,6 +13,7 @@ The industry average is also take into consideration when applying financial rat
 
 # Visualisation
 The graph below shows reasonable price of a REITS. After research, Price-to-fund-from-operations seem to be the best method of valuing a reits since it takes into consideration the growth of its underlying assets.   
-From the graph below, it also shows that the price of REITS follows the curve of PFFO for most of the time.
+
+From the graph below, it also shows that the price of REITS follows the curve of PFFO (blue line) for most of the time.
 ![alt text](https://github.com/kelvonlys/Stock-Valuation/blob/main/valuation.png)
 
